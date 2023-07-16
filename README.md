@@ -51,6 +51,6 @@ Contributions to this project are highly appreciated. If you have any suggestion
 
 ## Contact
 
-For any questions or inquiries, please contact [your-email@example.com](mailto:ayeshaf2529@gmail.com).
+For any questions or inquiries, please contact (mailto:ayeshaf2529@gmail.com).
 
 **Happy segmenting!**
